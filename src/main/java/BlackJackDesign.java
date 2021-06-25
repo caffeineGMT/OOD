@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class TexasPokerDesign {
+public class BlackJackDesign {
     public class BlackJack {
         private List<NormalPlayer> players;
         private Dealer dealer;
